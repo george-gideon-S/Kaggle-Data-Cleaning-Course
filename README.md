@@ -3,11 +3,11 @@ Welcome to the Data Cleaning Course for Kaggle! This comprehensive course is des
 # Course Overview:
 In the world of data analysis and machine learning, raw data is often far from perfect. Data cleaning is the critical first step in any data-driven project, and this course is your roadmap to success. Here's what you'll learn:
 
-* Handling Missing Values: Learn how to identify, handle, and impute missing data, ensuring your analysis is based on complete and reliable information.
-* Scaling and Normalization: Explore techniques to scale and normalize numerical features, enhancing the performance of machine learning models.
-* Parsing Dates: Master the art of working with date and time data, from formatting to extracting meaningful insights.
-* Character Encodings: Overcome challenges related to character encodings, ensuring seamless data integration and analysis.
-* Inconsistent Data Entry: Tackle data inconsistencies head-on, with practical strategies to clean and standardize messy data.
+* Handling Missing Values: Drop missing values, or fill them in with an automated workflow.
+* Scaling and Normalization: Transform numeric variables to have helpful properties.
+* Parsing Dates: Help Python recognize dates as composed of day, month, and year.
+* Character Encodings: Avoid UnicoodeDecodeErrors when loading CSV files.
+* Inconsistent Data Entry: Efficiently fix typos in your data.
 # Who Is This Course For?
 * Data Scientists
 * Analysts
